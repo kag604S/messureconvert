@@ -6,9 +6,6 @@
 #define CONVERT_CONVERT_H
 
 
-class convert {
-
-};
-
+void menu();
 
 #endif //CONVERT_CONVERT_H
